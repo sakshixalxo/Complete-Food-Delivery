@@ -68,3 +68,5 @@ create new file userModel.js in model                ->   where i will define th
 
 wrote basic structure user model -> user Controntroller -> user Route -> chcek api
 write the logic part for register user and login user in user Controller
+
+now open front end folder to connect the login and register part
