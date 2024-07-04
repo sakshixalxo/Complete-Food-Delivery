@@ -8,10 +8,6 @@ The cart functionality is designed to be user-friendly, allowing customers to ad
 
 
 
-
-
-
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -25,7 +21,7 @@ Currently, two official plugins are available:
 
 
 
-
+//background colour :rgb(244, 244, 232)
 
 
 
@@ -67,3 +63,4 @@ const FoodDisplay = (category) => {
 }
 
 export default FoodDisplay
+//
