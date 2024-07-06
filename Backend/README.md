@@ -70,3 +70,11 @@ wrote basic structure user model -> user Controntroller -> user Route -> chcek a
 write the logic part for register user and login user in user Controller
 
 now open front end folder to connect the login and register part
+
+
+
+
+
+
+create cartController.js in controllers -> for shop cart functionality
+create auth.js in middleware            ->when user send data, they will use token to authenticate them , to decode the token we will use the middleware
